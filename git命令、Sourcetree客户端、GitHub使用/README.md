@@ -430,7 +430,17 @@ cat ……
 
 <br/>
 
-## 五、友情提示：
+## 六、GitHub使用
+
+&emsp;&emsp;&emsp;&emsp;关于GitHub的使用，我个人觉得首先要用起来，比如为自己建一个仓库/项目、fork被人的项目、clone项目等等
+
+> 在掌握GitHub的基本使用后，对GitHub中的GitHub项目页面的详细使用，可以参考：
+>
+> &emsp;&emsp;&emsp;[github项目页面认知](https://www.bilibili.com/video/BV1d4411L7Jk/)
+
+<br/>
+
+## 七、友情提示：
 
 ​         &emsp;&emsp;[软件、插件下载](https://gitee.com/all-about-git)
 
